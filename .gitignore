@@ -17,6 +17,12 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# Flash
+*.swf
+
+# Python
+*.pyc
+
 # =========================
 # Operating System Files
 # =========================
